@@ -1,0 +1,15 @@
+@import "./assets/scss/variables.scss";
+
+body{
+  background-color: $textColor-primary;
+}
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 40px;
+  box-sizing: border-box;
+  background-color: $textColor-secondary;
+  height: 100%;
+  min-height: 100vh;
+  color: $white
+}

@@ -1,0 +1,14 @@
+@import "./assets/scss/variables";
+
+.circleProgress{
+  display: flex;
+  align-items: center;
+}
+
+.label{
+  width: 60px;
+}
+
+.progressWrap{
+  width: 25px;
+}

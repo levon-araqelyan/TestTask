@@ -1,0 +1,20 @@
+@import "./assets/scss/variables";
+
+.paginationWrap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pageNumbers {
+  a{
+    color: $series;
+  }
+}
+.selectedPage {
+  a{
+    background-color: $series;
+    color: $white;
+  }
+}

@@ -1,0 +1,23 @@
+.selectWrap{
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  span{
+    margin-right: 20px;
+    width: 70px;
+  }
+}
+
+.rangeWrap{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  span{
+    margin-right: 20px;
+    width: 120px;
+  }
+}
+
+.sortForm{
+  display: flex;
+}
